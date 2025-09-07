@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI/ML Developer
 ---------------
 
-Hey there! I'm Aryan Saini, a passionate AI/ML developer currently navigating the world of IT at ABV IIITM, Gwalior. My journey involves delving into the realms of artificial intelligence, machine learning, and neural networks. 🤖 Excited about the dynamic fusion of technology and data science, I love tackling complex problems and crafting intelligent solutions. With a solid IT foundation, I'm always eager to learn and stay at the forefront of AI advancements. Beyond the academic realm, I actively contribute to projects, adding my touch to the ever-evolving landscape of artificial intelligence. Let's innovate together! 
+Hey there! I'm Aryan Saini, a passionate AI/ML developer currently navigating the world of IT at ABV IIITM, Gwalior. My journey involves delving into the realms of artificial intelligence, machine learning, and neural networks. Excited about the dynamic fusion of technology and data science, I love tackling complex problems and crafting intelligent solutions. With a solid IT foundation, I'm always eager to learn and stay at the forefront of AI advancements. Beyond the academic realm, I actively contribute to projects, adding my touch to the ever-evolving landscape of artificial intelligence. Let's innovate together! 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [aryan71004@gmail.com](mailto:aryan71004@gmail.com)
