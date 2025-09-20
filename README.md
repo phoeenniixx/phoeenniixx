@@ -24,7 +24,6 @@ src="https://img.shields.io/github/followers/phoeenniixx?logo=github&style=for-t
 
 ### Visit [my website](https://aryan-saini.vercel.app/) for more info!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoeenniixx&show_icons=true&locale=en&layout=compact" alt="phoeenniixx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoeenniixx&show_icons=true&locale=en" alt="phoeenniixx" /></p>
 
