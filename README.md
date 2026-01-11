@@ -30,3 +30,12 @@ src="https://img.shields.io/github/followers/phoeenniixx?logo=github&style=for-t
 </p>
 
 
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116151399" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116151399&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @phoeenniixx" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116151399&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+
