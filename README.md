@@ -27,6 +27,7 @@ src="https://img.shields.io/github/followers/phoeenniixx?logo=github&style=for-t
 <a href="https://github.com/phoeenniixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="phoeenniixx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryan-saini-121338257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-saini-121338257" height="30" width="40" /></a>
 <a href="https://medium.com/@arian32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arian32" height="30" width="40" /></a>
+<a href="https://letterboxd.com/babashree/" target="blank"><img align="center" src="https://a.ltrbxd.com/logos/letterboxd-logo-v-neg-rgb.svg" alt="@arian32" height="30" width="40" /></a>
 </p>
 
 
