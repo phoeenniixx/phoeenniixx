@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Aryan Saini
 ===================================================================================================================================
 
-Open-source contributor
----------------
+# Open-source contributor
+
 
 I’m Aryan Saini, an AI/ML developer and IT student at ABV IIITM Gwalior. My work focuses on artificial intelligence, machine learning, and neural networks, with an emphasis on building practical, well-engineered solutions. I enjoy working on challenging problems, learning new techniques, and keeping up with advances in the field. Alongside academics, I actively contribute to projects and open-source work in the AI ecosystem.
 
@@ -16,21 +16,15 @@ I’m Aryan Saini, an AI/ML developer and IT student at ABV IIITM Gwalior. My wo
 src="https://img.shields.io/github/followers/phoeenniixx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoeenniixx&label=Profile%20views&color=0e75b6&style=flat" alt="phoeenniixx" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+## Current Projects
+- I am working on [rework of `pytorch-forecasting`](https://github.com/sktime/pytorch-forecasting) for its v2 release and adding Foundation Models support to it (Also maintaining and doing releases :P).
+- I am also working on `pyQit` - a highlevel framework built upon `pennylane` for quantum machine learning. Trying to reduce the learning curve and Coding effort when training, benchmarking models in QML. See the project [here](https://github.com/phoeenniixx/pyQit).
 
+## Some side projects
+- Some maintenance work at [`pykalman`](https://github.com/pykalman/pykalman) and [`pytorch-tabular`](https://github.com/pytorch-tabular/pytorch_tabular).
+- Random projects that you can see [here](https://github.com/phoeenniixx?tab=repositories).
 
-
-### Socials
-
-<p align="left">
-<a href="https://github.com/phoeenniixx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="phoeenniixx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryan-saini-121338257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-saini-121338257" height="30" width="40" /></a>
-<a href="https://medium.com/@arian32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arian32" height="30" width="40" /></a>
-<a href="https://letterboxd.com/babashree/" target="blank"><img align="center" src="https://a.ltrbxd.com/logos/letterboxd-logo-v-neg-rgb.svg" alt="@arian32" height="30" width="40" /></a>
-</p>
-
-
+## GH Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phoeenniixx&show_icons=true&theme=dracula" alt="GitHub Stats" height="350" />
