@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/phoeenniixx?logo=github&style=for-t
 
 ## Current Projects
 - I am working on [rework of `pytorch-forecasting`](https://github.com/sktime/pytorch-forecasting) for its v2 release and adding Foundation Models support to it (Also maintaining and doing releases :P).
-- I am also working on `pyQit` - a highlevel framework built upon `pennylane` for quantum machine learning. Trying to reduce the learning curve and Coding effort when training, benchmarking models in QML. See the project [here](https://github.com/phoeenniixx/pyQit).
+- I am also working on `pyQit` - a highlevel framework built upon `pennylane` for quantum machine learning. Trying to reduce the learning curve and Coding effort when training, benchmarking models in QML (a WiP (and unstable) for atleast some more months!). See the project [here](https://github.com/phoeenniixx/pyQit).
 
 ## Some side projects
 - Some maintenance work at [`pykalman`](https://github.com/pykalman/pykalman) and [`pytorch-tabular`](https://github.com/pytorch-tabular/pytorch_tabular).
