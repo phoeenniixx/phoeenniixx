@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # Open-source contributor
 
 
-I’m Aryan Saini, an AI/ML developer and IT student at ABV IIITM Gwalior. My work focuses on artificial intelligence, machine learning, and neural networks, with an emphasis on building practical, well-engineered solutions. I enjoy working on challenging problems, learning new techniques, and keeping up with advances in the field. Alongside academics, I actively contribute to projects and open-source work in the AI ecosystem.
+I'm Aryan Saini, a final-year Integrated B.Tech + M.Tech student at ABV-IIITM Gwalior.
+I'm a Core Developer at sktime and maintainer of pytorch-forecasting. I work on ML tooling and framework engineering: library architecture, API design, release management and code review, alongside neural architecture implementation and LLM pipelines. I enjoy working on challenging problems, learning new techniques, and keeping up with advances in the field. Alongside academics, I actively contribute to projects and open-source work in the AI ecosystem.
 
 * 🌍  I'm based in India
 * 🤝  I'm open to collaborating on Machine Learning projects
@@ -26,8 +27,6 @@ src="https://img.shields.io/github/followers/phoeenniixx?logo=github&style=for-t
 
 ## GH Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phoeenniixx&show_icons=true&theme=dracula" alt="GitHub Stats" height="350" />
-</div>
+[![Aryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=phoeenniixx)](https://github.com/stats-organization/github-stats-extended)
 
 
