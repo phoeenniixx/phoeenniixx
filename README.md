@@ -27,6 +27,4 @@ src="https://img.shields.io/github/followers/phoeenniixx?logo=github&style=for-t
 
 ## GH Stats
 
-[![Aryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=phoeenniixx)](https://github.com/stats-organization/github-stats-extended)
-
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=phoeenniixx&show_icons=true&include_all_commits=true&theme=gruvbox_light)](https://github-stats-extended.vercel.app/api?username=phoeenniixx&show_icons=true&include_all_commits=true&theme=gruvbox_light)
