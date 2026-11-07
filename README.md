@@ -4,14 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # Open-source contributor
 
 
-I'm Aryan Saini, a final-year Integrated B.Tech + M.Tech student at ABV-IIITM Gwalior.
-I'm a Core Developer at sktime and maintainer of pytorch-forecasting. I work on ML tooling and framework engineering: library architecture, API design, release management and code review, alongside neural architecture implementation and LLM pipelines. I enjoy working on challenging problems, learning new techniques, and keeping up with advances in the field. Alongside academics, I actively contribute to projects and open-source work in the AI ecosystem.
+I'm a final-year Integrated B.Tech + M.Tech student at ABV-IIITM Gwalior. 
 
-* 🌍  I'm based in India
-* 🤝  I'm open to collaborating on Machine Learning projects
-* ⚡  I can rap as well
-* 👨‍💻 All of my projects are available at **[https://aryan-saini.vercel.app/](https://aryan-saini.vercel.app/)**
+I'm a Core Developer at [sktime](https://github.com/sktime/sktime) and the lead maintainer of [pytorch-forecasting](https://github.com/sktime/pytorch-forecasting).
 
+- I like contributing to open-source projects in ML, quantum computing and whatever else catches my interest.
+- When I am not scrolling GitHub, I'm implementing papers that intrigue me and try to understand how they work (tbh, hit or miss T_T).
+
+I'm based in India and open to collaborating on ML projects. 
+
+You can find my projects at [aryan-saini.vercel.app](https://aryan-saini.vercel.app/). A few interesting ones are below, along with the pinned repos.
 
 <a href="https://www.github.com/phoeenniixx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/phoeenniixx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
