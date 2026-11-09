@@ -9,7 +9,10 @@ I'm a final-year Integrated B.Tech + M.Tech student at ABV-IIITM Gwalior.
 I'm a Core Developer at [sktime](https://github.com/sktime/sktime) and the lead maintainer of [pytorch-forecasting](https://github.com/sktime/pytorch-forecasting).
 
 - I like contributing to open-source projects in ML, quantum computing and whatever else catches my interest.
-- When I am not scrolling GitHub, I'm implementing papers that intrigue me and try to understand how they work (tbh, hit or miss T_T).
+- When I am not scrolling GitHub, I'm either:
+  - implementing papers that intrigue me and try to understand how they work (tbh, hit or miss T_T).4
+  - Playing a Game or watching a Gameplay
+  - Binge watching something
 
 I'm based in India and open to collaborating on ML projects. 
 
